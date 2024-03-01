@@ -40,5 +40,3 @@ The program also includes the following features:
 - The program generates a random salt for each password, enhancing the security of the hashing process. This ensures that even if two users have the same password, their hashed passwords will be different.
 
 - Please note that this program is intended for educational and informational purposes only. It does not cover all aspects of secure password handling and storage. In a production environment, it is recommended to use established libraries and follow industry best practices for password storage and handling.
-
-Please let me know if you need any further assistance!
